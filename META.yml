@@ -19,7 +19,8 @@ name: ExtUtils-LibBuilder
 provides:
   ExtUtils::LibBuilder:
     file: lib/ExtUtils/LibBuilder.pm
-    version: '0.05'
+    version: '0.06'
 resources:
   license: http://dev.perl.org/licenses/
-version: '0.05'
+  repository: http://github.com/ambs/ExtUtils-LibBuilder
+version: '0.06'
